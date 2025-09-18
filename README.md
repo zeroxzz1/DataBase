@@ -1,3 +1,1 @@
-{ 
-"tokens" : [ ]
-}
+ token.json
